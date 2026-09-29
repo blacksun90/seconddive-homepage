@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>세컨드다이브 - SECONDDIVE 홈페이지</title>
+    <link>https://seconddive.co.kr/</link>
+    <description>세컨드다이브 - SECONDDIVE 공식 웹사이트 RSS 피드</description>
+    <language>ko</language>
+    <lastBuildDate>Mon, 20 May 2025 12:00:00 +0900</lastBuildDate>
+
+    <item>
+      <title>메인</title>
+      <link>https://seconddive.co.kr/</link>
+      <description>세컨드다이브 메인 페이지</description>
+      <pubDate>Mon, 20 May 2025 12:00:00 +0900</pubDate>
+    </item>
+
+    <item>
+      <title>게임 소개</title>
+      <link>https://seconddive.co.kr/games</link>
+      <description>세컨드다이브가 개발한 게임을 소개합니다.</description>
+      <pubDate>Mon, 20 May 2025 12:00:00 +0900</pubDate>
+    </item>
+
+    <item>
+      <title>회사 위치 및 문의</title>
+      <link>https://seconddive.co.kr/contact</link>
+      <description>세컨드다이브의 위치 및 연락처 정보를 확인하세요.</description>
+      <pubDate>Mon, 20 May 2025 12:00:00 +0900</pubDate>
+    </item>
+
+    <item>
+      <title>복지 제도</title>
+      <link>https://seconddive.co.kr/culture/benefits</link>
+      <description>세컨드다이브의 복지 제도를 소개합니다.</description>
+      <pubDate>Mon, 20 May 2025 12:00:00 +0900</pubDate>
+    </item>
+
+    <item>
+      <title>사내 전경</title>
+      <link>https://seconddive.co.kr/culture/office-view</link>
+      <description>세컨드다이브의 사내 분위기 및 환경을 확인하세요.</description>
+      <pubDate>Mon, 20 May 2025 12:00:00 +0900</pubDate>
+    </item>
+
+    <item>
+      <title>채용 정보</title>
+      <link>https://seconddive.co.kr/career</link>
+      <description>세컨드다이브 채용 정보를 안내합니다.</description>
+      <pubDate>Mon, 20 May 2025 12:00:00 +0900</pubDate>
+    </item>
+
+  </channel>
+</rss>

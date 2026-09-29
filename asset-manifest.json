@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d5a678b3.css",
+    "main.js": "/static/js/main.1ed89237.js",
+    "static/media/home_ares_video2.mp4": "/static/media/home_ares_video2.c0f8c17fba1ac485b51d.mp4",
+    "static/media/NotoSansCJKkr-Black.otf": "/static/media/NotoSansCJKkr-Black.c08d1a40f19a2f5a5850.otf",
+    "static/media/NotoSansCJKkr-Bold.otf": "/static/media/NotoSansCJKkr-Bold.9b1db29fc2a12922bfa6.otf",
+    "static/media/NotoSansCJKkr-Medium.otf": "/static/media/NotoSansCJKkr-Medium.a89c0e766c9f7264d04e.otf",
+    "static/media/NotoSansCJKkr-Regular.otf": "/static/media/NotoSansCJKkr-Regular.3e8a3d882f53a16eb7ff.otf",
+    "static/media/NotoSansCJKkr-DemiLight.otf": "/static/media/NotoSansCJKkr-DemiLight.0d80d7542462952de697.otf",
+    "static/media/NotoSansCJKkr-Light.otf": "/static/media/NotoSansCJKkr-Light.528e085c44a08c3b32ca.otf",
+    "static/media/NotoSansCJKkr-Thin.otf": "/static/media/NotoSansCJKkr-Thin.c5e62551d3d7d22c0f17.otf",
+    "static/media/office_7.jpg": "/static/media/office_7.1bd763683e03aea53ace.jpg",
+    "static/media/office_4.jpg": "/static/media/office_4.c434dabd263240264046.jpg",
+    "static/media/bg-section-game.2.png": "/static/media/bg-section-game.2.fc3b583e4e5379688c14.png",
+    "static/media/office_5.jpg": "/static/media/office_5.b09cc21143ea2bacf96e.jpg",
+    "static/media/Bg_Game2.png": "/static/media/Bg_Game2.a1ff990d6572b6f8aa86.png",
+    "static/media/Bg_Game1.png": "/static/media/Bg_Game1.25b761e751d23e3872e1.png",
+    "static/media/office_3.jpg": "/static/media/office_3.88ddadbcdb42ce1577e5.jpg",
+    "static/media/map3.png": "/static/media/map3.38567b65b505e4b71446.png",
+    "static/media/Bg_Home.png": "/static/media/Bg_Home.a11db9e49c19e2437784.png",
+    "static/media/Bg_About.png": "/static/media/Bg_About.561e697e0d66ad8d9431.png",
+    "static/media/bg-section-game.7.jpg": "/static/media/bg-section-game.7.062ae5c8b19a8206fb26.jpg",
+    "static/media/office_6.jpg": "/static/media/office_6.42160c942ef0b1c5c49d.jpg",
+    "static/media/office_1.jpg": "/static/media/office_1.4de370ba54880b0474e9.jpg",
+    "static/media/bg-section-game.1.jpg": "/static/media/bg-section-game.1.61023b87b70d6816d011.jpg",
+    "static/media/office_2.jpg": "/static/media/office_2.d8404af30338e94cc530.jpg",
+    "static/media/Bg_Home_Deco.png": "/static/media/Bg_Home_Deco.ddbbe0b6968f793bcc54.png",
+    "static/media/Bg_DecoCareers.png": "/static/media/Bg_DecoCareers.da2ec3a6efa3d95cd51c.png",
+    "static/media/sd_logo_transparent.png": "/static/media/sd_logo_transparent.d13ff6fa50233944578c.png",
+    "static/media/map5.png": "/static/media/map5.8e0ce9d887c5d41d947f.png",
+    "static/media/btn-download3.png": "/static/media/btn-download3.407b7f3a1becf1250d5c.png",
+    "index.html": "/index.html",
+    "main.d5a678b3.css.map": "/static/css/main.d5a678b3.css.map",
+    "main.1ed89237.js.map": "/static/js/main.1ed89237.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5a678b3.css",
+    "static/js/main.1ed89237.js"
+  ]
+}
